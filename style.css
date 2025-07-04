@@ -1,0 +1,9 @@
+/* The box is a square (shape) with a width and height of 200px.
+    Its color is set to red using background-color.
+    The position is set to relative, allowing for positioning adjustments if needed. */
+#shape{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+}
